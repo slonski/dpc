@@ -2,88 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08b3f4a-15a4-43f1-9946-1797bc6c1ee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slideshow-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nav-active.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Stas.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-header-bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/scroll-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dot_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nav-divider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sliding-tabs-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/testimonial-button-prev.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/style.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slideshow-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.cycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dashed-border.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ring2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/testimonial-button-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/scroll-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/scroll-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slideshow-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/site/index.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/transparent_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-wrapper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sliding-tabs-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-header-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon4.png" />
+      <change type="NEW" beforePath="" afterPath="C:\sites\dpc\app\assets\javascripts\cufon-yui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/testimonial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about-avatar.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-body.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/twitter.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dot_on.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/testimonial-button-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sliding-tabs-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dashed-border.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sliding-tabs-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nav-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/transparent_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.cycle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/scroll-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/site/index.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/testimonial-button-prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about-avatar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="C:\Sites\dpc\app\assets\javascripts\cufon-yui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/testimonial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nav-divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slideshow-bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/ring2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-wrapper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-2.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sliding-tabs-bottom-border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/social-icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icon-email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/dot_off.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/site/index.html.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/portfolio-item-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/bg-body.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\_general.scss" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\_global_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\rails.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dpc.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\site.css.scss" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\header.css.scss" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\app\assets\stylesheets\_global_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\app\assets\stylesheets\header.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\app\assets\stylesheets\_general.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\app\assets\stylesheets\site.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\dpc\app\assets\images\rails.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dpc.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="MOVED" beforePath="C:\Sites\dpc\app\assets\javascripts\site.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_header.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_header.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/site_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/site_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/site/index.html.haml" afterPath="" />
+      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\javascripts\site.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/site.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/site_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/site_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_header.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_header.html.haml" />
     </list>
     <ignored path="dpc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -144,7 +144,7 @@
       <file leaf-file-name="_products_section.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/site/_products_section.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="78" selection-start="916" selection-end="916" vertical-scroll-proportion="0.38297874">
+            <state line="12" column="46" selection-start="481" selection-end="481" vertical-scroll-proportion="0.3227848">
               <folding />
             </state>
           </provider>
@@ -180,7 +180,7 @@
       <file leaf-file-name="style.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="653" column="26" selection-start="12538" selection-end="12538" vertical-scroll-proportion="-17.185184">
+            <state line="653" column="26" selection-start="12538" selection-end="12538" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -241,7 +241,7 @@
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
-    <option name="height" value="1102" />
+    <option name="height" value="1170" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -269,6 +269,26 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -413,38 +433,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dpc" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="recentsLimit" value="5" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Rails.Development: dpc">
     <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
@@ -647,11 +647,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: dpc" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: dpc" />
-      <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="0" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Production: dpc" />
+      <item index="4" class="java.lang.String" itemvalue="Rails.Development: dpc" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -711,24 +711,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1102" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1170" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33528838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22329059" sideWeight="0.6701571" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22596154" sideWeight="0.6783969" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3225131" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32160312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -807,21 +807,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/site/_about_section.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1790" selection-end="2169" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fonts.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="1790" selection-end="2169" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/site/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="94" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+        <state line="6" column="94" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/site/_home_section.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="8" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fonts.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/site/_contact_section.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="65" selection-start="75" selection-end="82" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/site/_nav.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="45" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/site/_header.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="59" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="653" column="26" selection-start="12538" selection-end="12538" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -831,51 +857,9 @@
         <state line="9" column="9" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="653" column="26" selection-start="12538" selection-end="12538" vertical-scroll-proportion="-17.185184">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_home_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_header.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="59" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_contact_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="65" selection-start="75" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_nav.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="45" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/site/_products_section.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="78" selection-start="916" selection-end="916" vertical-scroll-proportion="0.38297874">
+        <state line="12" column="46" selection-start="481" selection-end="481" vertical-scroll-proportion="0.3227848">
           <folding />
         </state>
       </provider>

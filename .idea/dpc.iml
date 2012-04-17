@@ -25,7 +25,7 @@
     <orderEntry type="library" scope="PROVIDED" name="ansi (v1.4.2, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v2.2.3, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.18, ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v3.1.1, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.2.0, ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.2.0, ruby-1.9.2-p290) [gem]" level="application" />
