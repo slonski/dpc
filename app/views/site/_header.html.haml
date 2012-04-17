@@ -1,0 +1,8 @@
+#header
+  .header
+    #logo
+      = link_to (image_tag "logo.png"), "#top"
+    #topnav-holder
+      %ul#topnav
+        - [:home, :about, :products, :contact].each do |sym|
+          %li= link_to t(sym, :scope => :sections), "##{sym.to_s}"

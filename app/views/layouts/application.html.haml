@@ -1,0 +1,18 @@
+!!!
+%html
+  %head
+    %link{:href => 'http://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Abel|Syncopate|Raleway:100|Gruppo|Poiret+One&subset=latin,cyrillic', :rel => 'stylesheet', :type => 'text/css'}
+    = stylesheet_link_tag    "application"
+    = javascript_include_tag "application"
+    = csrf_meta_tags
+    -#= display_meta_tags
+  %body#top
+    = render :partial => "site/header"
+    #wrapper
+      #content
+        .top
+        = yield
+    = render :partial => "site/footer"
+    -#= render :partial => "site/analytics"
+
+

@@ -1,0 +1,40 @@
+.section#contact
+  = render :partial => "site/nav", :locals => {:title => :contact, :up => :about, :down => nil}
+  .container
+    .two_in_one_even
+      %h1= t(:contact_information)
+      %p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat nunc ut nibh interdum tempus. Donec at lorem eget sapien iaculis porttitor id quis ligula. Duis non ante quis ligula vestibulum scelerisque id quis est.</p>
+      .contact-information
+        %ul
+          - [:address, :phone, :email].each do |sym|
+            %li{:class => sym}
+              %strong "#{t(sym)}:"
+              = t(sym, :scope => :contact_data)
+      %ul.socialize
+        - 6.times do |i|
+          %li= link_to (image_tag "social-icon#{i+1}.png"), "#"
+    .two_in_one_even.last
+      %form{:action => "send.php", :id => "contact_form", :method => "post"}
+        %h1= t(:please_feel_free_to_email_us)
+        %ul
+          - [:name, :email, :phone].each do |sym|
+            %li
+              %label
+                = t(sym)
+                %span.required required
+              %input{:type => "text", :name => sym, :value => "", :class => "requiredField #{t(sym, :scope => :input_class)}"}
+
+          %li.textarea
+            %label
+              = t(:message)
+              %span.required required
+            %textarea{:name => "message", :id => "message", :rows => 20, :cols => 30, :class => "requiredField"}
+
+          %li.button
+            %input{:name => "submitted", :id => "submitted", :value => t(:send_message), :class => "submit", :type => "submit"}
+
+  #twitter-holder
+    .twitter
+      Not sure why I'm still awake at 1AM. Might be due to the fact I'm receiving new emails every 2-5 minutes. Not sure why I'm still awake at 1AM. Might be due to the fact I'm receiving new emails every 2-5 minutes.
+      = link_to "about 21 hours ago", "#"
+      = link_to "Follow me on Twitter", "#", :class => "follow-me toolTip"

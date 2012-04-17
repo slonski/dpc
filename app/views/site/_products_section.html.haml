@@ -1,0 +1,18 @@
+.section#products
+  = render :partial => "site/nav", :locals => {:title => :products, :up => :about, :down => :contact}
+  .container
+    #portfolio-filter
+      %span.browse #{t(:browse_products)}:
+      %ul
+        - [:all, :ring, :bracelet, :earring, :necklace].reverse.each do |sym|
+          %li= link_to t(sym), "##{sym.to_s}"
+    %ul.portfolio-tiles-gallery
+      - 50.times do |i|
+        %li.ring
+          .boxgrid.slideright
+            = image_tag "thumbs/#{i+2}.jpg", :class => "cover"
+            %strong= t(:title)
+            %p At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis top praesentium voluptatum delen atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia.</p>
+            = link_to t(:preview), "assets/slide1.jpg", :rel => "prettyPhoto[portfolio]"
+            = link_to t(:view_online), "#"
+
