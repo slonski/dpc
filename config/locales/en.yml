@@ -3,11 +3,20 @@
 
 en:
   sections:
-    home: Home
-    about: About
-    products: Каталог
-    contact: Contact
+    home: Главная
+    about: О Нас
+    products: Изделия
+    contact: Обратная Связь
+
+
+
 
 
   welcome: Добро Пожаловать!
   rings: Кольца
+  browse_products: Сортировать
+  ring: Кольца
+  all: Все
+  earring: Серьги
+  necklace: Колье
+  bracelet: Браслеты

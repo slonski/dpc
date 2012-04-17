@@ -2,17 +2,24 @@
   = render :partial => "site/nav", :locals => {:title => :products, :up => :about, :down => :contact}
   .container
     #portfolio-filter
-      %span.browse #{t(:browse_products)}:
-      %ul
-        - [:all, :ring, :bracelet, :earring, :necklace].reverse.each do |sym|
-          %li= link_to t(sym), "##{sym.to_s}"
-    %ul.portfolio-tiles-gallery
-      - 50.times do |i|
-        %li.ring
-          .boxgrid.slideright
-            = image_tag "thumbs/thumb (#{i+2}).jpg", :class => "cover"
-            %strong= t(:title)
-            %p At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis top praesentium voluptatum delen atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt culpa tofficia.</p>
-            = link_to t(:preview), "assets/slide1.jpg", :rel => "prettyPhoto[portfolio]"
-            = link_to t(:view_online), "#"
+      %span.browse= "#{t(:browse_products)}:"
+      %ul.filter.group
+        %li.all.current= link_to t(:all), "#"
+        - [:ring, :bracelet, :earring, :necklace].each do |sym|
+          %li{:class => "#{sym}"}
+            = link_to t(sym), "#"
+    %ul.portfolio.group
+      - 55.times do |i|
+        %li.item{"data-id" => "id-#{i+1}", "data-type" => cycle("ring", "bracelet", "earring", "necklace")}
+          -#.boxgrid.peek
+          = link_to (image_tag "thumbs/thumb (#{i+2}).jpg", :class => "cover"), "/assets/thumbs/fullsize (#{i+2}).jpg", :rel => "prettyPhoto[portfolio]"
+          -#.info-holder
+          -#  .info
+          -#    %ul
+          -#      - [:id, :metal, :weight, :main, :color, :purity, :certificate, :price].each do |sym|
+          -#        %li
+          -#          %span.name.left= t(sym)
+          -#          %span.value.right 2321
+          -#    = link_to t(:preview), "assets/slide1.jpg", :rel => "prettyPhoto[portfolio]", :class => "left"
+          -#    = link_to t(:order), "#", :class => "right"
 

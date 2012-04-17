@@ -1,5 +1,7 @@
 .nav
   %h2= t(title, :scope => :sections)
   %ul.pagenav
-    %li.up= link_to t(up), "##{up.to_s}" if up
-    %li.down= link_to t(down), "##{down.to_s}" if down
+    - if up
+      %li.up= link_to t(up), "##{up.to_s}"
+    - if down
+      %li.down= link_to t(down), "##{down.to_s}"
