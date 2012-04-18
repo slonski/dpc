@@ -13,9 +13,9 @@
             %p Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo, nemo enim ipsam voluptatem quia voluptas sit asperna.
             = link_to t(:find_out_more), "#portfolio"
   .column-holder
-    - 3.times do |i|
+    - [:main, :technology, :invitation].each_with_index do |sym, i|
       .one_in_three{:class => i == 2 ? "last" : ""}
-        %h2 some_title
+        %h2= t(sym, :scope => :home_section_columns_title)
         %br
-        = image_tag "icon#{i+1}.png", :class => "left"
-        %p Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo, nemo enim ipsam voluptatem quia voluptas sit asperna.
+        = image_tag "pic#{i+1}.png", :class => "left"
+        %p= t(sym, :scope => :home_section_columns_text).html_safe

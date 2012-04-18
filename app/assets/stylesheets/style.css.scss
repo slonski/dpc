@@ -23,6 +23,7 @@ time, mark, audio, video {
     font-family:"Adam", Arial, Helvetica, sans-serif;
     vertical-align:baseline;
 }
+ul {list-style:none}
 p {
   font: 13px/17px verdana
 }
@@ -76,6 +77,8 @@ a {
 p {
 	padding-bottom: 15px;
 }
+.left{float:left}
+.right{float:right}
 img.left, p img.left {
 	float: left;
 	margin-top: 10px;
@@ -315,14 +318,15 @@ ul#topnav li a:hover, ul#topnav li a.hover {
 	text-indent: -9999px;
 }
 .pagenav a {
-	display: block;
+  display: block;
+  height:25px;
 }
 
 .pagenav .up {
-	background-image: url(scroll-up.png);
+  background-image: url(scroll-up.png);
 }
 .pagenav .down {
-	background-image: url(scroll-down.png);
+  background-image: url(scroll-down.png);
 }
 /***************************************************
 			HOME PAGE SLIDER
@@ -608,18 +612,60 @@ ul.portfolio-tiles-gallery li .boxgrid {
 	float:left;
 	padding: 10px;
 	width: 210px;
-	height: 150px;
+	height: 160px;
 	cursor:pointer;
 	overflow: hidden;
 	position: relative;
 }
 ul.portfolio-tiles-gallery li .boxgrid img {
-	top: 0;
-	left: 0;
-	background-color: #191919;
-	float: left;
-	padding: 10px;
-	position: absolute;
+  top: 0;
+  left: 0;
+  float: left;
+  position: absolute;
+  border:10px solid #191919;
+  border-radius:15px;
+}
+ul.portfolio-tiles-gallery li .info-holder {
+  top: 0;
+  left: 0;
+  float: left;
+  position: absolute;
+  padding:5px;
+  boder:1px solid;
+  .info {
+    background: url("transparent.png") repeat scroll 0 0 transparent;
+    border-radius: 5px 5px 5px 5px;
+    left: 15px;
+    padding: 5px;
+    position: absolute;
+    top: 10px;
+    width: 200px;
+    display:none;
+    ul {
+      list-style: none;
+    }
+    li {
+      font:14px/14px verdana;
+      padding:0;
+      border-bottom:1px dotted #555;
+      width:200px;
+      span {
+        font-family:verdana;
+        font-size:10px;
+        cursor:default;
+      }
+      span.name {
+        color:#ccc;
+      }
+      span.value {
+        color:#fff;
+      }
+      &:last-child{
+        border:none;
+        margin-bottom:11px;
+      }
+    }
+  }
 }
 ul.portfolio-tiles-gallery .boxgrid slideright a img {
 	margin: 0px;
@@ -631,11 +677,9 @@ ul.portfolio-tiles-gallery li .boxgrid p {
 	text-shadow: none;
 }				
 ul.portfolio-tiles-gallery  li a {
-	font-size: 11px;
+	font-size: 16px;
 	font-weight: bold;
 	display: block;
-	float: left;
-	padding-right: 15px;
 	color: #2cb1d3;
 	text-shadow: none;
 }
@@ -656,12 +700,12 @@ ul.portfolio-tiles-gallery  li a {
 }
 #portfolio-filter .browse {
 	float: left;
-	color: #2cb1d3;
+	color: #666;;
 }
 #portfolio-filter ul {
 	margin: 0px;
 	padding: 0px;
-	float: right;
+	float: left;
 }
 #portfolio-filter li {
 	background: none;
