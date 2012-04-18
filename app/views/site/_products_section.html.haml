@@ -9,17 +9,19 @@
           %li{:class => "#{sym}"}
             = link_to t(sym), "#"
     %ul.portfolio.group
-      - 55.times do |i|
+      - 56.times do |i|
         %li.item{"data-id" => "id-#{i+1}", "data-type" => cycle("ring", "bracelet", "earring", "necklace")}
           -#.boxgrid.peek
-          = link_to (image_tag "thumbs/thumb (#{i+2}).jpg", :class => "cover"), "/assets/thumbs/fullsize (#{i+2}).jpg", :rel => "prettyPhoto[portfolio]"
-          -#.info-holder
-          -#  .info
-          -#    %ul
-          -#      - [:id, :metal, :weight, :main, :color, :purity, :certificate, :price].each do |sym|
-          -#        %li
-          -#          %span.name.left= t(sym)
-          -#          %span.value.right 2321
-          -#    = link_to t(:preview), "assets/slide1.jpg", :rel => "prettyPhoto[portfolio]", :class => "left"
-          -#    = link_to t(:order), "#", :class => "right"
+          = link_to (image_tag "thumbs/thumb (#{i+112}).jpg", :class => "cover"), "/assets/fullsize/fullsize#{i+112}.jpg", :rel => "prettyPhoto[portfolio]"
+          .info-holder
+            .info-button
+              Detailed Info
+            .info
+              %ul
+                - [:id, :metal, :weight, :main, :color, :purity, :certificate, :price].each do |sym|
+                  %li
+                    %span.name.left= t(sym)
+                    %span.value.right 2321
+              = link_to t(:preview), "assets/slide1.jpg", :rel => "prettyPhoto[portfolio]", :class => "left"
+              = link_to t(:order), "#", :class => "right"
 

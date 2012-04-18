@@ -343,15 +343,24 @@ $(document).ready(function(){
         $(".cover", this).stop().animate({top:'0px', left:'0px'},{queue:false,duration:450});
     });
     //Partial Sliding (Only show some of background)
-    $('portfolio-tiles-gallery li').hover(function(){
-        $(".cover", this).stop().animate({opacity:'0.3'},{queue:false,duration:300});
-        $(".info", this).slideDown(300);
+    $('.portfolio li').hover(function(){
+        var _this = $(this);
+        $(".info-button", this).slideDown(300).click(function(){
+            $(this).slideUp(300);
+            _this.find(".cover").stop().animate({opacity:'0.3'},{queue:false,duration:300});
+            _this.find(".info").slideDown(1000, "easeOutBounce");
+        });
     }, function() {
+        $(".info-button", this).slideUp(300);
         $(".cover", this).stop().animate({opacity:'1'},{queue:false,duration:300});
         $(".info", this).slideUp(300);
     });
 });
 
+
+
+//
+//
 
 
 

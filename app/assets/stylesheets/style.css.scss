@@ -23,8 +23,11 @@ time, mark, audio, video {
     font-family:"Adam", Arial, Helvetica, sans-serif;
     vertical-align:baseline;
 }
+ul {list-style:none}
 p {
-  font: 13px/17px verdana
+  font-size: 15px;
+  line-height: 18px;
+  color: #999999;
 }
 body {
 	margin: 0px;
@@ -163,13 +166,29 @@ strong {
 	margin-left: 15px;
 	color: #CCCCCC;
 }
+.shadowed {
+  -webkit-box-shadow: 0 5px 20px 0 #111;
+  -moz-box-shadow: 0 5px 20px 0 #111;
+  -o-box-shadow: 0 5px 20px 0 #111;
+  box-shadow: 0 5px 20px 0 #111;
+}
+
+img.about {
+  border:1px solid #222;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+
 #wrapper {
 	color: #82817D;
 	font-size: 12px;
 	text-shadow:0 1px 0 #000;
 	background-repeat: repeat-x;
 	background-position: center 100px;
-	background-image: url(bg-wrapper.jpg);
+	background-image: url(bg33.jpg);
 	overflow: hidden;
 }
 #header {
@@ -217,6 +236,8 @@ strong {
 	width: 1010px;
 	margin-bottom: 300px;
 }
+
+
 .container {
 	background-repeat: repeat;
 	padding: 25px;
@@ -429,21 +450,23 @@ ul#topnav li a:hover, ul#topnav li a.hover {
 .sliderbutton {float:right; width:68px}
 .sliderbutton img {cursor:pointer}
 #testimonial-holder {
-	width: 420px;
+	width: 415px;
 	float: left;
 	-moz-border-radius: 7px;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 	padding: 20px;
 	background-color: #191919;
+    border:1px solid #222;
+    margin-top:30px;
 }
 #testimonial {
-	float:left;
-	position:relative;
-	overflow:auto;
-	width: 420px;
-	font-size: 11px;
-	height: 170px;
+  float:left;
+  position:relative;
+  overflow:auto;
+  width: 420px;
+  font-size: 11px;
+  height: 170px;
 }
 #testimonial ul {
 	position:absolute;
@@ -475,6 +498,7 @@ ul#topnav li a:hover, ul#topnav li a.hover {
 	padding: 0px;
 	color: #666666;
 	font-style: italic;
+    font-size:13px;
 }
 #testimonial li .author {
 	font-weight: bold;
@@ -624,22 +648,39 @@ ul.portfolio-tiles-gallery li .boxgrid img {
   border:10px solid #191919;
   border-radius:15px;
 }
-ul.portfolio-tiles-gallery li .info-holder {
+ul.portfolio li .info-holder {
   top: 0;
   left: 0;
   float: left;
   position: absolute;
   padding:5px;
   boder:1px solid;
-  .info {
+  div {
     background: url("transparent.png") repeat scroll 0 0 transparent;
-    border-radius: 5px 5px 5px 5px;
-    left: 15px;
+    left: 5px;
     padding: 5px;
     position: absolute;
-    top: 10px;
-    width: 200px;
+    top: 5px;
+    width: 202px;
     display:none;
+  }
+  .info-button {
+    background: url("transparent-dark.png") repeat scroll 0 0 transparent;
+    border-bottom:1px solid #111;
+    height:15px;
+    cursor:pointer;
+    text-align:center;
+    -moz-transition: 0.4s color linear;
+    -webkit-transition: 0.4s color linear;
+    -o-transition: 0.4s color linear;
+    transition: 0.4s color linear;
+    &:hover{color:#fff;}
+  }
+  .info {
+    height:149px;
+    a {
+      border:none;
+    }
     ul {
       list-style: none;
     }
@@ -648,6 +689,7 @@ ul.portfolio-tiles-gallery li .info-holder {
       padding:0;
       border-bottom:1px dotted #555;
       width:200px;
+      margin:0;
       span {
         font-family:verdana;
         font-size:10px;
@@ -879,6 +921,7 @@ ul.portfolio-tiles-gallery  li a {
 	padding: 0px;
 	float: left;
 	margin: 0px;
+    color:#999;
 }
 .one {
 	width: 100%;

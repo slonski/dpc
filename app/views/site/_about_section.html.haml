@@ -3,13 +3,12 @@
   .container
     .two_in_one_even
       %h2= t(:diamond_private_club)
-      %p
-        = image_tag "about-avatar.gif", :class => "left"
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-        Donec ut volutpat metus. Aliquam tortor lorem, fringilla tempor dignissim at, pretium et arcu. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo, nemo enim ipsam voluptatem quia voluptas sit asperna.
-      %p Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo, nemo enim ipsam voluptatem quia voluptas sit asperna.
+      -[:about_1, :about_2, :about_3, :about_4].each do |sym|
+        %p= t(sym)
+      = image_tag "about_2.gif", :class => "about shadowed left"
     .two_in_one_even.last
-      #testimonial-holder
+      = image_tag "about_1.gif", :class => "about shadowed right"
+      #testimonial-holder.shadowed
         %h2= t(:testimonials)
         #testimonial
           %ul

@@ -14,7 +14,7 @@
         - 6.times do |i|
           %li= link_to (image_tag "social-icon#{i+1}.png"), "#"
     .two_in_one_even.last
-      %form{:action => "send.php", :id => "contact_form", :method => "post"}
+      %form{:action => "send.php", :id => "contact_form", :method => "post", :class => "shadowed"}
         %h1= t(:please_feel_free_to_email_us)
         %ul
           - [:name, :email, :phone].each do |sym|
