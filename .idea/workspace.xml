@@ -1,409 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c08b3f4a-15a4-43f1-9946-1797bc6c1ee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/diamondIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize117.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize118.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize126.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize127.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize129.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize130.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize131.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize132.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize133.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize134.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize136.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize137.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize138.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize141.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize142.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize145.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize146.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize148.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize152.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize153.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize155.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize156.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize157.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize158.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize159.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize161.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize162.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize164.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize165.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize166.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize167.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize168.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize169.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize170.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize171.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize172.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize173.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize174.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize175.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize176.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize65.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize67.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize69.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize70.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize71.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize72.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize73.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize74.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize75.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize76.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize77.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize78.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize79.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize80.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize81.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize82.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize83.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize84.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize85.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize86.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize87.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize88.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize89.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize90.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize91.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize92.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize93.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize94.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize95.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize96.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize97.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize98.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fullsize/fullsize99.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nivo/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nivo/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/nivo/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pic1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pic2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/default/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/default/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/slider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/controlnav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/featured.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/slider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/default/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/orman.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/orman/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/pascal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/themes/pascal/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.nivo.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/quicksand.css.scss" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\about-avatar.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\View Online.url" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (1).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (10).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (100).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (101).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (102).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (103).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (104).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (105).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (106).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (107).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (108).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (109).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (11).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (110).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (111).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (112).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (113).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (114).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (115).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (116).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (117).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (118).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (119).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (12).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (120).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (121).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (122).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (123).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (124).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (125).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (126).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (127).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (128).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (129).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (13).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (130).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (131).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (132).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (133).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (134).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (135).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (136).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (137).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (138).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (139).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (14).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (140).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (141).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (142).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (143).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (144).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (145).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (146).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (147).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (148).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (149).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (15).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (150).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (151).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (152).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (153).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (154).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (155).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (156).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (157).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (158).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (159).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (16).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (160).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (161).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (162).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (163).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (164).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (165).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (166).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (167).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (168).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (169).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (17).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (170).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (171).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (172).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (173).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (174).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (175).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (176).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (18).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (19).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (20).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (21).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (22).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (23).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (24).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (25).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (26).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (27).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (28).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (29).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (3).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (30).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (31).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (32).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (33).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (34).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (35).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (36).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (37).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (38).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (39).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (4).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (40).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (41).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (42).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (43).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (44).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (45).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (46).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (47).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (48).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (49).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (5).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (50).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (51).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (52).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (53).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (54).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (55).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (56).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (57).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (58).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (59).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (6).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (60).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (61).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (62).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (63).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (64).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (65).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (66).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (67).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (68).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (69).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (7).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (70).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (71).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (72).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (73).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (74).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (75).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (76).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (77).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (78).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (79).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (8).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (80).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (81).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (82).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (83).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (84).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (85).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (86).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (87).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (88).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (89).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (9).jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (90).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (91).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (92).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (93).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (94).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (95).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (96).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (97).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (98).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\fullsize\fullsize (99).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\images\thumbs\fullsize (2).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\quicksand.css" afterPath="" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\icon1.png" afterPath="$PROJECT_DIR$/app/assets/images/icon2.png" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\icon2.png" afterPath="$PROJECT_DIR$/app/assets/images/pic3.png" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\icon3.png" afterPath="$PROJECT_DIR$/app/assets/images/pic.png" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\slide1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide (2).jpg" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\slide2.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide (3).jpg" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\slide3.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide (4).jpg" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\images\slide4.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide (1).jpg" />
-      <change type="MOVED" beforePath="C:\sites\dpc\app\assets\stylesheets\prettyPhoto.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/prettyPhoto.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide2.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide3.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/slide4.jpg" afterPath="$PROJECT_DIR$/app/assets/images/slide4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="c08b3f4a-15a4-43f1-9946-1797bc6c1ee1" name="Default" comment="elohim ishmor">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fancybox/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fancybox/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/products.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/products.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/products_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/certificate.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/clarity.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/color.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/cut.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/shape.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/type.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/show.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423214103_create_shapes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423221234_create_cuts.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423221544_create_clarities.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423222032_create_colors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423222339_create_certificates.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20120423223200_create_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/certificates.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/clarities.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/colors.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/cuts.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/shapes.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/types.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/product_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/products_controller_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/certificate_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/clarity_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/color_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/cut_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/product_helper_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/products_helper_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/shape_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/type_test.rb" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\javascripts\jquery.cycle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\javascripts\jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\sites\dpc\app\assets\stylesheets\prettyPhoto.css.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/custom.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/site.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/style.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/style.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_about_section.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_about_section.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_contact_section.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_contact_section.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_home_section.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_home_section.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/site/_products_section.html.haml" afterPath="$PROJECT_DIR$/app/views/site/_products_section.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
     </list>
     <ignored path="dpc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -425,101 +69,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_home_section.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/site/_home_section.html.haml">
+      <file leaf-file-name="products_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
+            <state line="1" column="10" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nivo-slider.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css.scss">
+      <file leaf-file-name="show.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/products/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="73" selection-start="2003" selection-end="2003" vertical-scroll-proportion="-13.814815">
+            <state line="1" column="28" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_about_section.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/site/_about_section.html.haml">
+      <file leaf-file-name="shape.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/shape.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="34" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#t(:testimonials)#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_contact_section.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/site/_contact_section.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="96" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0">
+            <state line="0" column="35" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quicksand.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/quicksand.css.scss">
+      <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="704" selection-end="852" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.nivo.slider.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery.nivo.slider.js">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="662" column="27" selection-start="23610" selection-end="23617" vertical-scroll-proportion="-8.074074">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="674" column="23" selection-start="12985" selection-end="12985" vertical-scroll-proportion="0.77868855">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="en.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
+      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="119" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
+            <state line="30" column="56" selection-start="772" selection-end="772" vertical-scroll-proportion="0.19754978">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_products_section.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/site/_products_section.html.haml">
+      <file leaf-file-name="20120423214103_create_shapes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120423214103_create_shapes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="763" selection-end="816" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#178#197#1" expanded="true" />
-                <element signature="e#257#264#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="349" column="92" selection-start="14645" selection-end="14645" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="8" column="55" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -537,22 +145,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/fonts.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
-        <option value="$PROJECT_DIR$/app/views/site/_header.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/site/_nav.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/site.js" />
-        <option value="$PROJECT_DIR$/app/views/site/_home_section.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css" />
         <option value="$PROJECT_DIR$/app/views/site/_about_section.html.haml" />
         <option value="$PROJECT_DIR$/app/views/site/_contact_section.html.haml" />
         <option value="$PROJECT_DIR$/config/locales/en.yml" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/quicksand.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/quicksand.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/site/_products_section.html.haml" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/site.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/jquery.fancybox.css" />
+        <option value="$PROJECT_DIR$/app/views/site/_product.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/site/_products_section.html.haml" />
+        <option value="$PROJECT_DIR$/app/controllers/product_controller.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120423215710_update_shapes.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120423214103_create_shapes.rb" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -622,9 +230,15 @@
               <option name="myItemId" value="dpc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -634,6 +248,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -655,7 +323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
+              <option name="myItemId" value="products" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -694,26 +362,8 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dpc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dpc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,12 +380,22 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="dpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dpc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -766,17 +426,41 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
+    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Rails.Development: dpc">
+  <component name="RunManager" selected="Rake.db:migrate">
     <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
       <option name="VM_PARAMETERS" value="" />
       <option name="USER_CFG_CLASS" />
       <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="dpc" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="development" />
+        <env name="VERSION" value="20120423215710" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -842,6 +526,22 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method>
+        <option name="RakeTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method>
         <option name="RakeTask" enabled="false" />
       </method>
@@ -972,12 +672,13 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Rake.test" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: dpc" />
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: dpc" />
       <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.db:migrate" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -1020,21 +721,21 @@
     <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33528838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33528838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23130342" sideWeight="0.67057675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2366453" sideWeight="0.66471165" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32160312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1097,117 +798,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/prettyPhoto.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0974359">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_nav.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="45" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_header.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="59" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery.nivo.slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="662" column="27" selection-start="23610" selection-end="23617" vertical-scroll-proportion="-8.074074">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_home_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_about_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="34" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#t(:testimonials)#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_contact_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="96" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="662" column="27" selection-start="23610" selection-end="23617" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="119" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="73" selection-start="2003" selection-end="2003" vertical-scroll-proportion="-13.814815">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/site/_products_section.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="763" selection-end="816" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#178#197#1" expanded="true" />
-            <element signature="e#257#264#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="20" column="119" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="349" column="92" selection-start="14645" selection-end="14645" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/quicksand.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="704" selection-end="852" vertical-scroll-proportion="0.0">
+        <state line="349" column="92" selection-start="14645" selection-end="14645" vertical-scroll-proportion="0.0265625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="674" column="23" selection-start="12985" selection-end="12985" vertical-scroll-proportion="0.77868855">
+        <state line="688" column="39" selection-start="13219" selection-end="13219" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/nivo-slider.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="73" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/jquery.fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="42" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/site/_products_section.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="210" selection-end="210" vertical-scroll-proportion="0.13016845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="10" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/products/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120423214103_create_shapes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="55" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/shape.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120423223200_create_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="56" selection-start="772" selection-end="772" vertical-scroll-proportion="0.19754978">
           <folding />
         </state>
       </provider>

@@ -12,7 +12,8 @@
       - 56.times do |i|
         %li.item{"data-id" => "id-#{i+1}", "data-type" => cycle("ring", "bracelet", "earring", "necklace")}
           -#.boxgrid.peek
-          = link_to (image_tag "thumbs/thumb (#{i+112}).jpg", :class => "cover"), "/assets/fullsize/fullsize#{i+112}.jpg", :rel => "prettyPhoto[portfolio]"
+          -#= link_to (image_tag "thumbs/thumb (#{i+112}).jpg", :class => "cover"), "/assets/fullsize/fullsize#{i+112}.jpg", :class => "fancybox"
+          = link_to (image_tag "thumbs/thumb (#{i+112}).jpg", :class => "cover"), "/product.html", :class => "fancybox"
           .info-holder
             .info-button
               Detailed Info
